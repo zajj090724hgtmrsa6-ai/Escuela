@@ -14,7 +14,9 @@
         <button type="submit" name="saludo">Cargar saludo</button>
     <?php
         if($_SERVER["REQUEST_METHOD"] === "POST" && isset($_POST['saludo'])){
+            // variable para el idioma
             $I = $_POST['idioma'];
+            // comparar resultados
             if($I == "ESPAÑOL"){
                 echo "Bienvenido Josue Francisco";
             } else if($I == "INGLES"){
