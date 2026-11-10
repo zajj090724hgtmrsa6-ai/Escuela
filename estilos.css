@@ -1,0 +1,17 @@
+html{
+    background-color: black;
+}
+form{
+    width: 300px;
+    margin: 40px auto;
+    padding: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 2rem;
+}
+.texto{
+    text-align: right;
+}
+.img{
+    width: 100px;
+    height: 100px;
+}
