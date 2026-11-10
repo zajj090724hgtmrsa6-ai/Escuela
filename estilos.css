@@ -15,3 +15,15 @@ form{
     width: 100px;
     height: 100px;
 }
+.S{
+    width: 50px;
+    border-radius: 15px;
+}
+.formulario{
+    width: 320px;
+    height: 200px;
+    margin: 40px auto;
+    padding: 1.5rem;
+    background-color: aliceblue;
+    border-radius: 2rem;
+}
